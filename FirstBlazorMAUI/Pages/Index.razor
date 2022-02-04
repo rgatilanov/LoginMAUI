@@ -1,0 +1,39 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+<h1>Login</h1>
+
+<p>Username
+<input type="text" @bind="user" class="input" maxlength="50"/></p>
+<p>Password
+<input type="password" @bind="password" class="password" maxlength="50"/></p>
+
+<button class="btn btn-primary" @onclick="Login">Click me</button>
+
+@code {
+
+	string user;
+	string password;
+	Model.Login login = null;
+	Services.Login service;
+
+	private async void Login()
+	{
+		if (user != null && password != null)
+		{
+			Model.UserMin _usrMin = new Model.UserMin()
+				{
+					Nick = user,
+					Password = password,
+				};
+			service = new Services.Login();
+			login = await service.Authenticate(_usrMin);
+			if (login.ID > 0)
+			{
+				//NavigationManager.NavigateTo("fetchdata/" + login.ID);
+				NavigationManager.NavigateTo("/fetchdata");
+			}
+		}
+	}
+	
+}
+
