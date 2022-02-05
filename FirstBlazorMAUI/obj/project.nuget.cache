@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ju2ttc/X7LylKI7CF++jfefTRd4xX1pPh3f21ZdTvo/RwDCuUtRB+l9QtQYmBhoXTI6BqkImRL+XZbrb/SN4xw==",
+  "dgSpecHash": "0O68ybSvVU6b7/rWtQX1i0AFGtnQ6Ev8Pof1PqtkrxRMXVj9DNR+IXZ355KN/NLe2SV+eyPdUkaNmC0ikjXjew==",
   "success": true,
-  "projectFilePath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUI\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
+  "projectFilePath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUIGit\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\microsoft.aspnetcore.components.6.0.1.nupkg.sha512",

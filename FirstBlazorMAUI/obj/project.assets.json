@@ -40754,11 +40754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUI\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
+      "projectUniqueName": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUIGit\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
       "projectName": "FirstBlazorMAUI",
-      "projectPath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUI\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
+      "projectPath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUIGit\\FirstBlazorMAUI\\FirstBlazorMAUI.csproj",
       "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-      "outputPath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUI\\FirstBlazorMAUI\\obj\\",
+      "outputPath": "G:\\EjerciciosMTWDM2022\\FirstBlazorMAUIGit\\FirstBlazorMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

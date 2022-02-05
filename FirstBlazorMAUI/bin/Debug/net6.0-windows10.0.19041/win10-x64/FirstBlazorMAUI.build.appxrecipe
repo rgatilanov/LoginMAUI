@@ -10,34 +10,34 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>A31AED87-EEEF-4C35-B20F-501D0DFDB933</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
+    <LayoutDir>G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\resources.pri">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.runtimeconfig.json">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.runtimeconfig.json">
       <PackagePath>FirstBlazorMAUI.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.dll">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.dll">
       <PackagePath>FirstBlazorMAUI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>FirstBlazorMAUI.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.deps.json">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\bin\Debug\net6.0-windows10.0.19041\win10-x64\FirstBlazorMAUI.deps.json">
       <PackagePath>FirstBlazorMAUI.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ProBook 450 HP\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.1\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
@@ -880,187 +880,187 @@
     <AppxPackagedFile Include="C:\Users\ProBook 450 HP\.nuget\packages\microsoft.graphics.win2d\1.0.0.30\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\Platforms\Windows\App.xbf">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\Platforms\Windows\App.xbf">
       <PackagePath>Platforms\Windows\App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\scopedcss\bundle\FirstBlazorMAUI.styles.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\scopedcss\bundle\FirstBlazorMAUI.styles.css">
       <PackagePath>Assets\wwwroot\FirstBlazorMAUI.styles.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\scopedcss\projectbundle\FirstBlazorMAUI.bundle.scp.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\scopedcss\projectbundle\FirstBlazorMAUI.bundle.scp.css">
       <PackagePath>Assets\wwwroot\FirstBlazorMAUI.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\app.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\app.css">
       <PackagePath>Assets\wwwroot\css\app.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>Assets\wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>Assets\wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>Assets\wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\FONT-LICENSE">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\FONT-LICENSE">
       <PackagePath>Assets\wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\ICON-LICENSE">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>Assets\wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\css\open-iconic\README.md">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\css\open-iconic\README.md">
       <PackagePath>Assets\wwwroot\css\open-iconic\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\favicon.ico">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\favicon.ico">
       <PackagePath>Assets\wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\wwwroot\index.html">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\wwwroot\index.html">
       <PackagePath>Assets\wwwroot\index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-100.png">
       <PackagePath>Assets\appiconfgSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-125.png">
       <PackagePath>Assets\appiconfgSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-150.png">
       <PackagePath>Assets\appiconfgSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-200.png">
       <PackagePath>Assets\appiconfgSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\sp\Assets\appiconfgSplashScreen.scale-400.png">
       <PackagePath>Assets\appiconfgSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>Assets\OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-100.png">
       <PackagePath>Assets\appiconLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-125.png">
       <PackagePath>Assets\appiconLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-150.png">
       <PackagePath>Assets\appiconLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-200.png">
       <PackagePath>Assets\appiconLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLargeTile.scale-400.png">
       <PackagePath>Assets\appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-100.png">
       <PackagePath>Assets\appiconLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-125.png">
       <PackagePath>Assets\appiconLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-150.png">
       <PackagePath>Assets\appiconLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-200.png">
       <PackagePath>Assets\appiconLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconLogo.scale-400.png">
       <PackagePath>Assets\appiconLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-100.png">
       <PackagePath>Assets\appiconMediumTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-125.png">
       <PackagePath>Assets\appiconMediumTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-150.png">
       <PackagePath>Assets\appiconMediumTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-200.png">
       <PackagePath>Assets\appiconMediumTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconMediumTile.scale-400.png">
       <PackagePath>Assets\appiconMediumTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-100.png">
       <PackagePath>Assets\appiconSmallTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-125.png">
       <PackagePath>Assets\appiconSmallTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-150.png">
       <PackagePath>Assets\appiconSmallTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-200.png">
       <PackagePath>Assets\appiconSmallTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconSmallTile.scale-400.png">
       <PackagePath>Assets\appiconSmallTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-100.png">
       <PackagePath>Assets\appiconStoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-125.png">
       <PackagePath>Assets\appiconStoreLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-150.png">
       <PackagePath>Assets\appiconStoreLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-200.png">
       <PackagePath>Assets\appiconStoreLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconStoreLogo.scale-400.png">
       <PackagePath>Assets\appiconStoreLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-100.png">
       <PackagePath>Assets\appiconWideTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-125.png">
       <PackagePath>Assets\appiconWideTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-150.png">
       <PackagePath>Assets\appiconWideTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-200.png">
       <PackagePath>Assets\appiconWideTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\appiconWideTile.scale-400.png">
       <PackagePath>Assets\appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-100.png">
       <PackagePath>Assets\dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-125.png">
       <PackagePath>Assets\dotnet_bot.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-150.png">
       <PackagePath>Assets\dotnet_bot.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-200.png">
       <PackagePath>Assets\dotnet_bot.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\win10-x64\resizetizer\r\Assets\dotnet_bot.scale-400.png">
       <PackagePath>Assets\dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\Shared\MainLayout.razor.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\Shared\NavMenu.razor.css">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\Shared\NavMenu.razor.css">
       <PackagePath>Shared\NavMenu.razor.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\staticwebassets.development.json">
+    <AppxPackagedFile Include="G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\obj\Debug\net6.0-windows10.0.19041\staticwebassets.development.json">
       <PackagePath>FirstBlazorMAUI.staticwebassets.runtime.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ProBook 450 HP\.nuget\packages\microsoft.aspnetcore.components.webview.maui\6.0.200-preview.12.2441\lib\net6.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.pri">

@@ -29,7 +29,7 @@
 			login = await service.Authenticate(_usrMin);
 			if (login.ID > 0)
 			{
-				//NavigationManager.NavigateTo("fetchdata/" + login.ID);
+				//NavigationManager.NavigateTo("fetchdata/" + login.Token);
 				NavigationManager.NavigateTo("/fetchdata");
 			}
 		}

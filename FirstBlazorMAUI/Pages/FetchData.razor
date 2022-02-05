@@ -1,5 +1,6 @@
 ﻿@page "/fetchdata"
-@*@page "/fetchdata/{IdUser:int}"*@
+@*@page "/fetchdata/{JWT}"*@
+@*@page "/fetchdata/{idUser:int}"*@
 @layout MainLayout
 
 @using FirstBlazorMAUI.Data
@@ -44,7 +45,10 @@ else
 
 @code {
 	//[Parameter]
-	//public int IdUser { get; set; }
+	//public string JWT { get; set; }
+
+	//[Parameter]
+	//public int idUser { get; set; }
 
 	private WeatherForecast[] forecasts;
 	protected override async Task OnInitializedAsync()

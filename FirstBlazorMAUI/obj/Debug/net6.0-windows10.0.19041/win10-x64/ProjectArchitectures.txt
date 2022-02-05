@@ -1,1 +1,1 @@
-G:\EjerciciosMTWDM2022\FirstBlazorMAUI\FirstBlazorMAUI\FirstBlazorMAUI.csproj;neutral
+G:\EjerciciosMTWDM2022\FirstBlazorMAUIGit\FirstBlazorMAUI\FirstBlazorMAUI.csproj;neutral
